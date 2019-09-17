@@ -1,0 +1,152 @@
+<resources>
+    <string name="app_name">MOT</string>
+    <string name="movie">Film</string>
+    <string name="tv_show">Acara TV</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="change_language_settings">Pilih Bahasa</string>
+    <string name="language">id-ID</string>
+    <string name="overview">Overview :</string>
+    <string name="jam">18.00 WIB</string>
+    <string name="bintang">Rating:</string>
+    <string name="favorite">Favorite</string>
+    <string name="film_favorite">Film Favorite</string>
+
+    <string name="tv_favorite">TV Favorite</string>
+    <string-array name="data_name">
+        <item>A Star Is Born</item>
+        <item>Aquaman</item>
+        <item>Avengers: Infinity War</item>
+        <item>Bird Box</item>
+        <item>Bohemian Rhapsody</item>
+        <item>Bumblebee</item>
+        <item>Creed II</item>
+        <item>SpiderMan: Into the Spider Verse</item>
+        <item>Venom</item>
+        <item>Mary Poppins Returns</item>
+    </string-array>
+
+    <string-array name="data_genres">
+        <item>Percintaan</item>
+        <item>Aksi</item>
+        <item>Aksi</item>
+        <item>Percintaan</item>
+        <item>Percintaan</item>
+        <item>Aksi</item>
+        <item>Aksi</item>
+        <item>Aksi</item>
+        <item>Aksi</item>
+        <item>Fiksi</item>
+    </string-array>
+
+    <string-array name="data_release">
+        <item>Dikeluarkan</item>
+        <item>Dikeluarkan</item>
+        <item>Dikeluarkan</item>
+        <item>Dikeluarkan</item>
+        <item>Dikeluarkan</item>
+        <item>Dikeluarkan</item>
+        <item>Dikeluarkan</item>
+        <item>Dikeluarkan</item>
+        <item>Dikeluarkan</item>
+        <item>Dikeluarkan</item>
+    </string-array>
+
+    <string-array name="data_overview">
+        <item>Musisi kawakan Jackson Maine menemukan - dan jatuh cinta dengan - artis yang sedang berjuang Ally. Dia baru saja menyerah pada mimpinya untuk menjadi besar sebagai penyanyi sampai Jack membujuknya menjadi sorotan. Tetapi bahkan ...</item>
+        <item>Dulunya merupakan rumah bagi peradaban paling maju di Bumi, Atlantis sekarang merupakan kerajaan bawah laut yang diperintah oleh Raja Orm yang haus kekuasaan. Dengan pasukan yang sangat besar, Orm berencana untuk menaklukkan orang-orang samudera yang tersisa ...</item>
+        <item>Ketika Avengers dan sekutu mereka terus melindungi dunia dari ancaman yang terlalu besar untuk ditangani oleh satu pahlawan, bahaya baru telah muncul dari bayang-bayang kosmik: Thanos. Seorang lalim keburukan intergalaksi ...</item>
+        <item>Lima tahun setelah kehadiran tak terlihat yang tak menyenangkan membuat sebagian besar masyarakat bunuh diri, seorang yang selamat dan dua anaknya melakukan upaya putus asa untuk mencapai keselamatan.</item>
+        <item>Penyanyi Freddie Mercury, gitaris Brian May, drummer Roger Taylor dan gitaris bass John Deacon mengambil dunia musik dengan badai ketika mereka membentuk band rock Queen Rock pada tahun 1970. Lagu-lagu hit menjadi klasik instan.…</item>
+        <item>Dalam pelarian pada tahun 1987, Bumblebee menemukan tempat perlindungan di tempat barang rongsokan di kota pantai kecil California. Charlie, di puncak usia 18 dan berusaha menemukan tempatnya di dunia, menemukan Bumblebee, bekas luka pertempuran ...</item>
+        <item>Antara kewajiban pribadi dan pelatihan untuk pertarungan besar berikutnya melawan lawan yang memiliki ikatan dengan masa lalu keluarganya, Adonis Creed menghadapi tantangan hidupnya.</item>
+        <item>Miles Morales menyulap hidupnya antara menjadi siswa sekolah menengah dan menjadi manusia laba-laba. Ketika Wilson Kingpin Fisk menggunakan collider super, yang lain dari seberang Spider-Verse diangkut ke dimensi ini.</item>
+        <item>Jurnalis investigasi Eddie Brock mencoba untuk kembali setelah skandal, tetapi secara tidak sengaja menjadi tuan rumah Venom, seorang simbiot alien yang sangat kuat dan sakti. Segera, ia harus mengandalkan kekuatan barunya untuk melindungi ...</item>
+        <item>Dalam London era Depresi, Jane dan Michael Banks yang sudah dewasa, bersama dengan tiga anak Michael, dikunjungi oleh Mary Poppins yang penuh teka-teki setelah kehilangan pribadi. Melalui keterampilan magisnya yang unik, dan dengan ...</item>
+    </string-array>
+
+    <array name="data_foto">
+
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_birdbox</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_creed</item>
+        <item>@drawable/poster_spiderman</item>
+        <item>@drawable/poster_venom</item>
+        <item>@drawable/poster_marrypopins</item>
+
+    </array>
+
+    <string-array name="data_name_tv">
+        <item>Siapa Takut Jatuh Cinta.</item>
+        <item>Anak Langit.</item>
+        <item>Cahaya Hati.</item>
+        <item>Dunia Terbalik.</item>
+        <item>Jodoh Wasiat Bapak.</item>
+        <item>Upin dan Ipin </item>
+        <item>Tukang Ojek Pengkolan</item>
+        <item>DAcademy Asia 3</item>
+        <item>Kenapa Aku Harus Menerima</item>
+        <item>Malaikat Tak Bersayap</item>
+    </string-array>
+
+    <string-array name="data_jt_tv">
+        <item>18.00 WIB</item>
+        <item>20.00 WIB</item>
+        <item>18.00 WIB</item>
+        <item>21.00 WIB</item>
+        <item>19.00 WIB</item>
+        <item>17.00 WIB</item>
+        <item>17.00 WIB</item>
+        <item>19.00 WIB</item>
+        <item>09.00 WIB</item>
+        <item>18.00 WIB</item>
+    </string-array>
+
+    <string-array name="data_overview_tv">
+        <item>Sinetron ini menarik perhatian banyak kaum milineal, pemerannya antara lain Natasha Wilona, Verrell Bramasta dan Aliando Syarief. Cerita hubungan mereka yang menarik ditayangkan di SCTV.</item>
+        <item>Serial Anak Langit menceritakan tentang 3 anak motor yaitu AL, Andra dan Kei yang tinggal di Panti Asuhan milik Babe Rozaq dan Nyak Ida. Mereka adalah anak-anak asuh Babe Rozaq dan Nyak Ida yang paling dekat dan sudah dianggap seperti anak sendiri. Al merupakan singkatan dari Anak Langit. Ternyata ia ditemukan Babe Rozaq di jalan depan Masjid saat ia masih bayi. Babe Rozaq menganggap Al adalah anak kiriman dari langit untuk dirinya dan Nyak Ida karena saat itu mereka belum memiliki momongan.</item>
+        <item>Yusuf dan Azizah. Keduanya dibesarkan dalam keluarga yang penuh cinta kasih. Yusuf (9 th) tumbuh menjadi anak yang tampan, soleh, dan jago silat, sementara Azizah (5 th) tumbuh semakin cantik dan menggemaskan. Yusuf dan Azizah terseret arus banjir, kedua orangtua mereka yang berniat menyelamatkan ternyata harus ikut terbawa arus. Beruntung, Yusuf berhasil menarik Azizah selamat dari arus banjir. Karena kelelahan, akhirnya mereka beristirahat di sebuah kendaraan yang tanpa disadari membawa mereka ke Jakarta! Bagaimana kelanjutan kisah hidup mereka?</item>
+        <item>Dunia Terbalik adalah program series komedi yang mengangkat cerita tentang para suami yang ditinggalkan istrinya untuk bekerja di luar negeri. Dimulai dari kisah Akum, Aceng, Idoy dan satu musuh bebuyutan Aceng, Dadang. Mereka harus mendidik anak serta mengurus urusan rumah tangga yang biasanya menjadi urusan para wanita. Sementara istrinya harus menafkahi keluarga.</item>
+        <item>Sebuah sinetron yang ditayangkan di ANTV. Sinetron ini diproduksi oleh Tobali Putra Productions. Pemerannya Adly Fairuz, Vinessa Inez dan banyak lagi yang lainnya.</item>
+        <item>Pada 2016 silam, tayangan anak ini raih piala untuk kategori Kartun Kesayangan pada ajang Mom dan Kids Awards 2016, alur cerita yang disuguhkan bervariatif dan tayang di MNCTV.</item>
+        <item>Cerita yang diangkat tentang pasangan muda bernama Rojak (Ojak) dan Tati. Untuk mencari nafkah, Ojak bekerja sebagai tukang ojek yang berpangkalan di ujung jalan masuk ke kampung bersama dua rekannya, Purnomo (Pur) dan Sutisna (Tisna), kisah menarik dan keunikan keluarga mereka ditayangkan RCTI.</item>
+        <item>Tampilnya Fildan di D \' Academy Asia bisa menjadi salah satu faktor meningkatnya rating program acara tingkat Asia ini. Dangdut Academy Asia 3 (D\'Academy Asia 3) akan memulai Konser Top 10 yang ditayangkan oleh Indosiar.</item>
+        <item>Sinema Indosiar, menghadirkan kisah tentang kehidupan yang dapat dipetik hikmah serta nilai moralnya. Dibintangi oleh aktor dan aktris papan atas Indonesia.</item>
+        <item>Malaikat Tak Bersayap (atau disingkat MTB) merupakan sebuah sinetron yang ditayangkan di ANTV. Sinetron ini diproduksi Verona Pictures.</item>
+    </string-array>
+    <array name="data_foto_tv">
+
+        <item>@drawable/stjc</item>
+        <item>@drawable/anak_langit</item>
+        <item>@drawable/cahaya_hati</item>
+        <item>@drawable/dunia_terbalik</item>
+        <item>@drawable/jwb</item>
+        <item>@drawable/upin_ipin</item>
+        <item>@drawable/top</item>
+        <item>@drawable/da</item>
+        <item>@drawable/kenapa_harus_menerima</item>
+        <item>@drawable/mtb</item>
+
+    </array>
+
+    <array name="data_foto_stasiun_tv">
+
+        <item>@drawable/sctv</item>
+        <item>@drawable/sctv</item>
+        <item>@drawable/rcti</item>
+        <item>@drawable/rcti</item>
+        <item>@drawable/antv</item>
+        <item>@drawable/mnc</item>
+        <item>@drawable/rcti</item>
+        <item>@drawable/in</item>
+        <item>@drawable/in</item>
+        <item>@drawable/antv</item>
+
+    </array>
+</resources>
